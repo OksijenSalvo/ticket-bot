@@ -1,7 +1,7 @@
 @echo off
 CHCP 65001 > nul
 cls
-title Hostivon Bot Baslatici
+title blabla Bot Baslatici
 :: Tüm ekranı temizle
 cls
 
@@ -9,7 +9,7 @@ color 3
 echo.
 echo ╔═════════════════════════════════════════════════════════════════╗
 color 0
-echo ║                  Hostivon Discord Botu Baslatiliyor...          ║
+echo ║                      blabla Botu Baslatiliyor...                ║
 color 0
 echo ║                      Developed By OksijenKannabis               ║
 color 0
